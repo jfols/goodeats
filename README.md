@@ -31,6 +31,17 @@ A curated list of places around central Ohio to eat delicious food
 
 ### [Akai Hana](https://goo.gl/maps/DZEEpdvV1uJ2)
 
+## Powell
+
+### [Handel's Homemade Ice Cream](https://goo.gl/maps/3kVTJmZbQ9p)
+🍨
+- Graham Central Station
+- Praline Pecan
+- Black Walnut
+- Coffee Chocolate Chip
+- Butter Pecan
+- (any)
+
 ## South Delaware County
 
 ### [Señor Antonio's](https://goo.gl/maps/g6p5ZCnCQw22)
