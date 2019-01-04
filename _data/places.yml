@@ -1,0 +1,128 @@
+- name: Westerville
+  locations:
+    - name: Thai Grille
+      emoji: 🍵
+      address: 15 E College Ave, Westerville, OH 43081
+      website: http://thaigrille.blogspot.com/
+      recommendations:
+    - name: Northstar Café
+      emoji: ☕️🍸🥃🍺
+      address: 109 S State St, Westerville, OH 43081
+      website: http://northstarcafe.com/
+      recommendations:
+    - name: Uptown Deli and Brew
+      emoji: 🍺
+      address: 41 N State St, Westerville, OH 43081
+      website: http://uptowndeliandbrew.com
+      recommendations:
+    - name: Java Central Café and Roaster
+      emoji: ☕️
+      address: 20 S State St, Westerville, OH 43081
+      website: http://java-central.com
+      recommendations:
+    - name: Asterisk Supper Club
+      emoji: 🍸🥃
+      address: 14 N State St, Westerville, OH 43081
+      website: http://asterisksupperclub.com
+      recommendations:
+    - name: Ray Ray's Hog Pit
+      emoji:
+      address: 5755 Maxtown Rd, Westerville, OH 43082
+      website: http://rayrayshogpit.com
+      recommendations:
+    - name: Delaney's Diner
+      emoji:
+      address: 5916 Westerville Rd, Westerville, OH 43081
+      website: http://www.delaneysdiner.com/
+      recommendations:
+    - name: Borgata Pizza Cafe
+      emoji: 🍕
+      address: 5701 Parkville St, Columbus, OH 43229
+      website: http://borgatapizzacafe.com
+      recommendations:
+    - name: Los Gauchos
+      emoji: 🌮
+      address: 1376 Cherry Bottom Rd, Gahanna, OH 43230
+      website: http://losguachostaqueria.com
+      recommendations:
+- name: Worthington(ish)
+  locations:
+    - name: J. Gilbert's Wood Fired Steaks & Seafood
+      emoji: 
+      address: 1 E Campus View Blvd, Columbus, OH 43235
+      website: http://www.jgilberts.com
+      recommendations:
+    - name: Borgata Pizza Cafe
+      emoji: 🍕
+      address: 2285 W Dublin Granville Rd 113, Worthington, OH 43085
+      website: http://borgatapizzacafe.com
+      recommendations:
+    - name: Los Gauchos
+      emoji: 🌮
+      address: 5221 Godown Rd, Columbus, OH 43235
+      website: http://losguachostaqueria.com
+      recommendations:
+    - name: Akai Hana
+      emoji: 
+      address: 1173 Old Henderson Rd, Columbus, OH 43220
+      website: http://akaihanaohio.com
+      recommendations:
+- name: Powell
+  locations:
+    - name: Handel's Homemade Ice Cream
+      emoji: 
+      address: 399 W Olentangy St, Powell, OH 43065
+      website: http://handelsicecream.com
+      recommendations:
+        - Graham Central Station
+        - Praline Pecan
+        - Black Walnut
+        - Coffee Chocolate Chip
+        - Butter Pecan
+- name: South Delaware County
+  locations:
+    - name: Señor Antonio's
+      emoji: 
+      address: 8617 Columbus Pike, Lewis Center, OH 43035
+      website: http://senorantonio.com
+      recommendations:
+        - Carnitas Jalisco
+- name: Delaware (downtown)
+  locations:
+    - name: 1808 American Bistro
+      emoji: 
+      address: 29 E Winter St, Delaware, OH 43015
+      website: http://1808americanbistro.com
+      recommendations:
+- name: Columbus
+  locations:
+    - name: Lavash Cafe
+      emoji: 
+      address: 2985 N High St, Columbus, OH 43202
+      website: http://lavashcafe.com
+      recommendations:
+    - name: Hofbräuhaus Columbus
+      emoji: 
+      address: 800 Goodale Blvd, Columbus, OH 43212
+      website: http://hofbrauhauscolumbus.com
+      recommendations:
+    - name: Momo Ghar
+      emoji: 
+      address: 1265 Morse Rd, Columbus, OH 43229
+      website: http://www.facebook.com/momogharohio/
+      recommendations:
+    - name: DENMARK
+      emoji: 🍸🥃
+      address: 463 N High St, Columbus, OH 43215
+      website: http://denmarkonhigh.com
+      recommendations:
+    - name: Juniper
+      emoji: 🍸🥃🍔
+      address: 463 N High St, Columbus, OH 43215
+      website: http://denmarkonhigh.com
+      recommendations:
+    - name: Old North Arcade
+      emoji: 🍺🎮🕹👾
+      address: 2591 N High St, Columbus, OH 43202
+      website: http://oldnortharcade.com
+      recommendations:

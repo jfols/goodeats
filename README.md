@@ -1,68 +1,24 @@
 # goodeats
-A curated list of places around central Ohio to eat delicious food
 
-## Westerville
+A curated list of places to eat in the Central Ohio area.
 
-### [Thai Grille](https://goo.gl/maps/hzekQnP451R2) 🍵
+## Adding Information
 
-### [Northstar Café](https://goo.gl/maps/oSZokXS6wvR2) ☕️🍸🥃🍺
+Places are added in the `_data/places.yml` data file. Each region (Westerville, Columbus, etc) are an element in the main list with each `location` representing individual location information.
 
-### [Uptown Deli and Brew](https://goo.gl/maps/t29SFQTzuAm) 🍺
-
-### [Java Central Café and Roaster](https://goo.gl/maps/kcr7oKUa3352) ☕️
-
-### [Asterisk Supper Club](https://goo.gl/maps/vxTu1pnkeRn) 🍸🥃
-
-### [Ray Ray's Hog Pit](https://goo.gl/maps/LSN2TaTULr42)
-
-### [Delaney's Diner](https://goo.gl/maps/nmJgncjT93T2)
-
-### [Borgata Pizza Cafe](https://goo.gl/maps/fsWnFTs7vR62) 🍕
-
-## [Los Gauchos](https://goo.gl/maps/rL3Q1kwKBE12) 🌮
-
-## Worthington(ish)
-
-### [J. Gilbert's Wood Fired Steaks & Seafood](https://goo.gl/maps/2g3FcYouNBA2)
-
-### [Borgata Pizza Cafe](https://goo.gl/maps/o3QizcTe1672) 🍕
-
-### [Los Guachos](https://goo.gl/maps/ohdWLEhxhPo) 🌮
-
-### [Akai Hana](https://goo.gl/maps/DZEEpdvV1uJ2)
-
-## Powell
-
-### [Handel's Homemade Ice Cream](https://goo.gl/maps/3kVTJmZbQ9p)
-🍨
-- Graham Central Station
-- Praline Pecan
-- Black Walnut
-- Coffee Chocolate Chip
-- Butter Pecan
-- (any)
-
-## South Delaware County
-
-### [Señor Antonio's](https://goo.gl/maps/g6p5ZCnCQw22)
-
-- Carnitas Jalisco
-
-## Delaware (downtown)
-
-### [1808 American Bistro](https://goo.gl/maps/8BATw8RWZg32)
-
-## Columbus
-
-### [Lavash Cafe](https://goo.gl/maps/UcTSbg1nUf52)
-
-### [Hofbräuhaus Columbus](https://goo.gl/maps/bKfgFMeCsdz)
-
-### [Momo Ghar](https://goo.gl/maps/dQuEXFx31zy)
-
-### [DENMARK](https://goo.gl/maps/fDxfUidZrpz) 🍸🥃
-
-### [Juniper](https://goo.gl/maps/fDxfUidZrpz) 🍸🥃🍔
-
-### [Old North Arcade](https://goo.gl/maps/hPbk8qj13RN2) 🍺🎮🕹👾
-
+```yml
+- name: Make Believe World
+  locations:
+    - name: The Watering Hole
+      emoji: 🍵
+      address: 1234 Main Road, Make Believe World, OH 12345
+      website: http://example.com/
+      recommendations:
+        - Don't eat the burritos.
+        - The hamburger is the best.
+    - name: Local Food Truck
+      emoji: ☕️🍸🥃🍺
+      address: 3rd and 5th, Make Believe World, OH 98765
+      website: http://example.net
+      recommendations:
+```
